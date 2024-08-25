@@ -1,5 +1,4 @@
-# Defines a function "emotify" that reads the user input word-by-word 
-# and changes word instances of emoticons to symbol emoticons.
+# Defines a function "emotify" that reads the user input word-by-word and changes word instances of emoticons to symbol emoticons.
 def emotify(phrase):
     
     # Declares a dictionary of words with its corresponding emoticon.
